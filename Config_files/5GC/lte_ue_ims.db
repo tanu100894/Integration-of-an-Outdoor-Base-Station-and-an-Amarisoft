@@ -1,0 +1,29 @@
+[
+{
+  impi: "001010123456789@ims.mnc001.mcc001.3gppnetwork.org",
+  bindings: [
+    {
+      uri: "<sip:03973d90-9d8b-4aa9-a95c-07a14e15cc97@[2001:468:3000:2:3c5a:7718:8f89:480]:42168>;+g.3gpp.accesstype=\"cellular2\";+sip.instance=\"<urn:gsma:imei:86547505-216207-0>\";audio;+g.3gpp.nw-init-ussi;+g.3gpp.smsip;video;+g.3gpp.icsi-ref=\"urn%3Aurn-7%3A3gpp-service.ims.icsi.mmtel\"",
+      impu: "001010123456789",
+      q: 1.0,
+      expires: 1707334681,
+      sip_ctx: 0xc6b52bc5,
+      id: 0xf,
+      video: true,
+      sms: true,
+      ipsec: {rnd: "0ae8ea296b60d2cf9fd1cf0400387c71", ck: "f9c81a2f35b4b8174865bfcce5928e0a", ik: "c81a2f35b4b8174865bfcce5928e0af9", cli_port_c: 37091, cli_port_s: 33336, srv_port_c: 42854, srv_port_s: 42168, cli_spi_c: 10264446, cli_spi_s: 10264447, srv_spi_c: 1467323357, srv_spi_s: 3407093460, seq0: 10, seq1: 8, seq2: 1, seq3: 1, alg: 'hmac-md5-96', ealg: 'des-ede3-cbc'},
+    },
+    {
+      uri: "<sip:3550ab01-4110-4175-aca5-4700d2cd8cc1@[2001:468:3000:1:78da:351e:fc0d:6e71]:42374>;+g.3gpp.accesstype=\"cellular2\";+sip.instance=\"<urn:gsma:imei:86547505-021674-0>\";audio;+g.3gpp.nw-init-ussi;+g.3gpp.smsip;video;+g.3gpp.icsi-ref=\"urn%3Aurn-7%3A3gpp-service.ims.icsi.mmtel\"",
+      impu: "001010123456789",
+      q: 1.0,
+      expires: 1707334662,
+      sip_ctx: 0xc6b52bc5,
+      id: 0x7,
+      video: true,
+      sms: true,
+      ipsec: {rnd: "720804cdfca80ad26be7bc8ef3fc9354", ck: "1926feb8fd6ca5e37e16353f217dab72", ik: "26feb8fd6ca5e37e16353f217dab7219", cli_port_c: 37782, cli_port_s: 33068, srv_port_c: 42938, srv_port_s: 42374, cli_spi_c: 10264442, cli_spi_s: 10264443, srv_spi_c: 164174039, srv_spi_s: 3978288811, seq0: 24, seq1: 8, seq2: 1, seq3: 1, alg: 'hmac-md5-96', ealg: 'des-ede3-cbc'},
+    },
+  ],
+},
+]
